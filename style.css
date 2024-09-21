@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+
+header{
+    text-align: center;
+    background-color:aqua;
+    padding: 10px;
+}
+/* h1, nav{
+    margin: 10px;
+} */
+
+
+nav{
+    inline-size: 80%;
+    width: 80%;
+}
+footer{
+    font-size: large;
+    color: aliceblue;
+    text-align: center;
+    background-color: #333;
+    padding: 10px;
+}
+main{
+    background-color: azure;
+}
+a{
+    color: blueviolet;
+}
+img{
+    margin: 12px;
+    height: 200px;
+    
+}
+.anh{
+    transition: 0.5s;
+}
